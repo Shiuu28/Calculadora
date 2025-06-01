@@ -37,7 +37,7 @@ button {
   font-size: 1.2rem;
   border: none;
   border-radius: 8px;
-  background: black;
+  background: rgb(103, 102, 102);
   color: white;
   cursor: pointer;
   transition: background 0.2s;
